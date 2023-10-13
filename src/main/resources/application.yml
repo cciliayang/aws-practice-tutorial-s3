@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+#AWS credentials
+aws:
+  accessKey: #yourAwsAccesskey
+  secretKey: #yourAwsSecreyKey
+
+  region: us-east-1
+  s3:
+    bucket: #yourbucketName
